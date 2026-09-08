@@ -1,0 +1,21 @@
+# Vivado log and journal files
+*.log
+*.jou
+*.str
+
+# Vivado project artifacts and runs
+*.cache/
+*.hw/
+*.ip_user_files/
+*.runs/
+*.sim/
+*.gen/
+
+# Vivado temporary files
+.Xil/
+hd_visual/
+
+# Generated bitstreams
+*.bit
+*.bin
+*.mcs
